@@ -1,0 +1,15 @@
+# Way 1
+Step 1  : Install node js
+step 2 : VS Code
+step 3 : Create a new folder -> ReactFolio
+step 4 : change directory to ReactFolio
+step 5 : npx create-react-app demoshopapp
+step 6 : change directory to demoshopapp
+step 7 : npm start
+
+#Way 2
+-Replit
+
+#Way 3
+-Using Starter Pack
+-downloaded in installation
